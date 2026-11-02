@@ -1,0 +1,8 @@
+public class BlackBoxTests{
+
+    public static void main(String[] args){
+        BlackBox b = new BlackBoxa();
+        int result = b.findIndexOfLetter("witch", "t");
+        int result1 = b.findIndexOfLetter("witch", "w");
+    }
+}
